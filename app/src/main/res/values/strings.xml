@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="what_are_the_two_official_languages_for_android_development">What are the two official languages for Android Development? \n\n A) Kotlin and Java \n\n B) Java and Python \n\n C) Kotlin and Python</string>
+    <string name="android_quiz">Android Quiz!</string>
+    <string name="c">C</string>
+    <string name="b">B</string>
+    <string name="a">A</string>
+</resources>
